@@ -4,12 +4,6 @@
 
 The Cognitive Operating System for Embodied Intelligence
 
-https://img.shields.io/badge/License-QIL-00BCD4.svg
-https://img.shields.io/badge/Quantum-128%20qubits-8A2BE2.svg
-https://img.shields.io/badge/Neuromorphic-1M%20neurons-FF6B6B.svg
-https://img.shields.io/badge/Edge-%3C5ms%20latency-4CAF50.svg
-https://img.shields.io/badge/python-3.11+-blue.svg
-https://img.shields.io/badge/rust-1.75+-orange.svg
 
 "The future is not artificial. It is cognitive."
 — Nicolas Santiago, Saitama, Japan · 2026
